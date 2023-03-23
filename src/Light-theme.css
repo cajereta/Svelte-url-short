@@ -1,0 +1,15 @@
+:root {
+  --color-background: rgb(240, 240, 240);
+  --color-selected: rgba(72, 0, 241, 0.473);
+  --color-hover: rgb(215, 217, 218);
+  --color-main-text: rgb(28, 36, 38);
+  --color-slider: rgb(43, 47, 57);
+  --color-list: rgb(225, 226, 226);
+  --b2: 0 0% 94.902%;
+  --bc: 215 27% 16%;
+  background-image: radial-gradient(#737373 1px, transparent 1px);
+  background-size: 88px 88px;
+  background-color: var(--color-background);
+
+
+}
